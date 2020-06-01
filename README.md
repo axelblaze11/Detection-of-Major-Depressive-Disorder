@@ -6,5 +6,7 @@ Detection of MDD was build on Multi-layer Perception or Artificial Neural Networ
 1. Here Maximum Likelihood Estimation approach is used for channel selection.
 2. Classifier Models like KNN(K nearest neighbour) and ANN (Artificial Neural Network) were used.
 3. There is comparsion between the above two classifiers with and without channel selection.
-4. This project was developed during a Summer Internship. 
+4. Data from four Band powers(Alpha, Beta, Gamma, Theta) were used to classify the depression.
+5. Compare the accuracy of all 4 Band Powers
+6. This project was developed during a Summer Internship. 
 
